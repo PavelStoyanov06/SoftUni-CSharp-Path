@@ -15,6 +15,6 @@
 
 ## *Legend:*
 
-- ✅ - *Done*
-- 👷 - *WIP*
-- ❌ - *Not Yet Taken*
+- ✅ - ***Done***
+- 👷 - ***WIP***
+- ❌ - ***Not Yet Taken***
