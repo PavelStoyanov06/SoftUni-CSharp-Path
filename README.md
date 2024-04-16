@@ -13,7 +13,8 @@
 - ### ASP.NET Fundamentals - ❌
 - ### ASP.NET Advanced - ❌
 
-*Legend:*
+## *Legend:*
+
 - ✅ - *Done*
 - 👷 - *WIP*
 - ❌ - *Not Yet Taken*
