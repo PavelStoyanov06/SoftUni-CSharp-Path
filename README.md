@@ -3,6 +3,7 @@
 ## Here are all currently included courses as well as their status in this repo:
 
 - ### Basics - 👷
+  - First Steps In Coding - Lab - ✅
 - ### Fundamentals - 👷
 - ### Advanced - 👷
 - ### OOP - 👷
