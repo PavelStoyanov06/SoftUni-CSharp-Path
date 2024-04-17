@@ -4,6 +4,7 @@
 
 - ### Basics - 👷
   - First Steps In Coding - Lab - ✅
+  - First Steps In Coding - Exercise - ✅
 - ### Fundamentals - 👷
 - ### Advanced - 👷
 - ### OOP - 👷
