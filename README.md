@@ -18,6 +18,7 @@
 - ### Fundamentals - 👷
   - Basic Syntax, Conditional Statements and Loops - Lab - ✅
   - Basic Syntax, Conditional Statements and Loops - Exercise - ✅
+  - Data Types and Variables - Lab
 - ### Advanced - 👷
 - ### OOP - 👷
 - ### MS SQL - 👷
