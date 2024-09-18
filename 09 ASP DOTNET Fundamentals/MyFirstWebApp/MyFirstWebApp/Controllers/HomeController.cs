@@ -18,6 +18,16 @@ namespace MyFirstWebApp.Controllers
             return View();
         }
 
+        public IActionResult Customer()
+        {
+            var model = new CustomerViewModel
+            {
+                Name = "Josh",
+                Age = 31
+            };
+            return View(model);
+        }
+
         public IActionResult Privacy()
         {
             return View();
