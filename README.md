@@ -26,7 +26,7 @@
 - ### Entity Framework Core - 👷
 - ### HTML & CSS - 👷
 - ### JS Front-End - 👷
-- ### ASP.NET Fundamentals - ❌
+- ### ASP.NET Fundamentals - 👷
 - ### ASP.NET Advanced - ❌
 
 ## *Legend:*
