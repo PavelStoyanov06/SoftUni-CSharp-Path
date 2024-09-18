@@ -10,7 +10,7 @@ while (power >= m)
 {
     power -= m;
     stroked++;
-    if (power == n * (50 / 100.0)) power /= y;
+    if (power == n * (50 / 100.0) && y != 0) power /= y;
 }
 
 Console.WriteLine(power);
