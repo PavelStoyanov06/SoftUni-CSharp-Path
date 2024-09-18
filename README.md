@@ -19,13 +19,14 @@
   - Basic Syntax, Conditional Statements and Loops - Lab - ✅
   - Basic Syntax, Conditional Statements and Loops - Exercise - ✅
   - Data Types and Variables - Lab - ✅
+  - Data Types and Variables - Exercise - ✅
 - ### Advanced - 👷
 - ### OOP - 👷
 - ### MS SQL - 👷
 - ### Entity Framework Core - 👷
 - ### HTML & CSS - 👷
 - ### JS Front-End - 👷
-- ### ASP.NET Fundamentals - ❌
+- ### ASP.NET Fundamentals - 👷
 - ### ASP.NET Advanced - ❌
 
 ## *Legend:*
